@@ -5,7 +5,7 @@
   "main": "Api.js",
   "type": "module",
   "scripts": {
-    "start": "node api/Api.js"
+    "start": "node Api.js"
   },
   "keywords": [],
   "author": "",
